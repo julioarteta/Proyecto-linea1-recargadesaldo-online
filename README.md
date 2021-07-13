@@ -12,9 +12,9 @@ En síntesis, en este proyecto desarrollamos una propuesta que busca optimizar d
 
 
 ## Code insights
-<p align="center">
-<img width="550" height="600" src="imagenes/diseno.PNG">
-</p>
+
+<img width="600" height="700" src="imagenes/diseno.PNG">
+
 
 ## Equipo
 
