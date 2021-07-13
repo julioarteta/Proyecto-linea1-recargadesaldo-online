@@ -5,4 +5,4 @@
 </p>
 
 > Resumen del sistema
-FONT COLOR="red">Texto ROJO </FONT>
+<FONT COLOR="red">Texto ROJO </FONT>
