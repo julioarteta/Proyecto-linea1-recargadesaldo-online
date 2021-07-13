@@ -19,7 +19,7 @@ En síntesis, en este proyecto desarrollamos una propuesta que busca optimizar d
 ## Interfaz de diseño
 
 <p align="center">
-<img width="700" height="700" src="imagenes/paginaprincipal.PNG">
+<img width="700" height="700" src="imagenes/frontend.PNG">
 </p>
 
 
