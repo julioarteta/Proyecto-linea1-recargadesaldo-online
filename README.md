@@ -20,5 +20,5 @@ En síntesis, en este proyecto desarrollamos una propuesta que busca optimizar d
 
 | <a target="_blank">**Julio Rojas**</a> | <a target="_blank">**Merly Sifuentes**</a> | <a target="_blank">**Marco Velazquez**</a> ||
 | :---: | :---:| :---:| :---:|
-| ![Luis](https://avatars2.githubusercontent.com/u/52045791?v=3&s=150) | ![Mario](https://avatars2.githubusercontent.com/u/57011629?v=3&s=150) | ![Daniela](https://avatars2.githubusercontent.com/u/52045791?v=3&s=150) | |
+| ![Julio](https://avatars2.githubusercontent.com/u/52045791?v=3&s=150) | ![Merly](https://avatars2.githubusercontent.com/u/57011629?v=3&s=150) | ![Marco](https://avatars2.githubusercontent.com/u/52045791?v=3&s=150) | |
 | <a href="https://github.com/julioarteta" target="_blank">`github.com/JulioRojasArteta`</a> | <a href="https://github.com/morphisjustfun" target="_blank">`github.com/MerlySifuentes`</a> | <a href="https://github.com/MarcoVelazquez" target="_blank">`github.com/MarcoVelazquez`</a> | |
