@@ -1,4 +1,4 @@
-<p align="center"><b><font color="green">RECARGAS DE SALDO ONLINE LINE 1 DEL METRO DE LIMA </color></b></p>
+<p align="center"><b><font color="green">RECARGAS DE SALDO ONLINE LINEA 1 DEL METRO DE LIMA </color></b></p>
 
 <p align="center">
 <img width="700" height="250" src="imagenes/logolinea1.png">
