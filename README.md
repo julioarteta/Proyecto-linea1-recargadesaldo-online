@@ -16,6 +16,13 @@ En síntesis, en este proyecto desarrollamos una propuesta que busca optimizar d
 <img width="700" height="700" src="imagenes/diseno.PNG">
 </p>
 
+## Interfaz de diseño
+
+<p align="center">
+<img width="700" height="700" src="imagenes/paginaprincipal.PNG">
+</p>
+
+
 ## Equipo
 
 > Contribuyentes
